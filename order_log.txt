@@ -1,0 +1,7 @@
+1, Pizza, 10.99, 20
+2, Hamburger, 5.49, 49
+3, Hotdog, 3.79, 53
+4, French Fries, 1.89, 85
+5, Onion Rings, 2.19, 27
+6, Soda, 1.19, 160
+7, Water, 0.79, 640
